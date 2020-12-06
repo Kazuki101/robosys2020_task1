@@ -5,7 +5,7 @@ Raspberry Pi4Bを用いてLED2個を点灯や点滅させるデバイスドラ�
 |:---|:---|
 |Raspberry Pi|Raspberry Pi 4 Model B 4GB|
 ## 回路説明
-ピン配置は以下の通りである。また, GNDは任意のところで使用できます。
+ピン配置は以下の通りである。また, LED1とLED2のカソードはそれぞれ任意のGNDに挿してください。
 |LED1 アノード|GPIO 25|
 |:---|:---|
 |LED2 アノード|GPIO 24|
