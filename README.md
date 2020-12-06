@@ -6,4 +6,6 @@ Raspberry Pi4Bを用いてLED2個を点灯や点滅させるデバイスドラ�
 |Raspberry Pi|Raspberry Pi 4 Model B 4GB|
 ## 実行手順
 ### ドライバのインストール
-    $git clone 
+    $git clone https://github.com/Kazuki101/robosys2020_task1.git
+    $cd robosys2020_task1
+### ビルド
