@@ -4,6 +4,11 @@ Raspberry Pi4Bを用いてLED2個を点灯や点滅させるデバイスドラ�
 |OS|Ubuntu20.04 server|
 |:---|:---|
 |Raspberry Pi|Raspberry Pi 4 Model B 4GB|
+## 回路説明
+ピン配置は以下の通りである。また, 
+|LED1 アノード|GPIO 25|
+|:---|:---|
+|LED2 アノード|GPIO 24|
 ## 実行手順
 ### ドライバのインストール
     $git clone https://github.com/Kazuki101/robosys2020_task1.git
