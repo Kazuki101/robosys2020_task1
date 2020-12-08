@@ -1,5 +1,6 @@
 # Robosys2020 課題1
 Raspberry Pi4Bを用いてLED2個を点灯や点滅させるデバイスドライバを作成しました。
+![picture](https://github.com/Kazuki101/robosys2020_task1/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(912).png)
 ## 実行環境
 |OS|Ubuntu20.04 server|
 |:---|:---|
